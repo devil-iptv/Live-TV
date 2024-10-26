@@ -3,7 +3,7 @@
 http://103.84.173.164:5001/api/match-1.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301637/logo/240x240/mobile_logo_418608001727851921.png" group-title="LIVE",LIVE2 VIP
 http://103.84.173.164:5001/api/match-3.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301637/logo/240x240/mobile_logo_418608001727851921.png" group-title="LIVE",LIVE2 VIP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/devil-iptv/Live-TV/refs/heads/main/tt.jpg" group-title="LIVE",LIVE2 VIP
 http://103.84.173.164:5001/api/match-3.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channels",SONY SPORTS TEN 1 HD
 http://103.84.173.164:5001/api/sony_ten1_hd.m3u8
