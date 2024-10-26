@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LIVE1 VIP" tvg-name="LIVE1 VIP" tvg-logo="https://images.toffeelive.com/images/program/301636/logo/240x240/mobile_logo_148933001727851627.png" group-title="LIVE",LIVE1 VIP
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301636/logo/240x240/mobile_logo_148933001727851627.png" group-title="LIVE",LIVE1 VIP
 http://103.84.173.164:5001/api/match-1.m3u8
 #EXTINF:-1 tvg-id="LIVE2 VIP" tvg-name="LIVE2 VIP" tvg-logo="https://images.toffeelive.com/images/program/301637/logo/240x240/mobile_logo_418608001727851921.png" group-title="LIVE",LIVE2 VIP
 http://103.84.173.164:5001/api/match-3.m3u8
