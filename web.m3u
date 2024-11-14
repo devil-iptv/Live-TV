@@ -1,41 +1,355 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301636/logo/240x240/mobile_logo_148933001727851627.png" group-title="LIVE",LIVE1 VIP
-http://103.84.173.164:5001/api/match-1.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301637/logo/240x240/mobile_logo_418608001727851921.png" group-title="LIVE",LIVE2 VIP
-http://103.84.173.164:5001/api/match-3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/devil-iptv/Live-TV/refs/heads/main/tt.jpg" group-title="LIVE",TSPORTS BD
-http://103.84.173.164:5001/api/match-3.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channels",SONY SPORTS TEN 1 HD
-https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channels",SONY SPORTS TEN 2 HD
-http://103.84.173.164:5001/api/sony_ten2_hd.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports Channels",SONY SPORTS TEN 3 HD
-http://103.84.173.164:5001/api/sony_ten3_hd.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-name="SONY SPORTS TEN 5 HD" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channels",SONY SPORTS TEN 5 HD
-http://103.84.173.164:5001/api/sony_six_hd.m3u8
-#EXTINF:-1 tvg-id="SONY ENTERTAINMENT TELEVISION" tvg-name="SONY ENTERTAINMENT TELEVISION" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Entertainment Channels",SONY ENTERTAINMENT TELEVISION
-http://103.84.173.164:5001/api/sony_entertainment.m3u8
-#EXTINF:-1 tvg-id="SONY ENTERTAINMENT TELEVISION HD" tvg-name="SONY ENTERTAINMENT TELEVISION HD" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Entertainment Channels",SONY ENTERTAINMENT TELEVISION HD
-http://103.84.173.164:5001/api/sony_entertainmnt_hd.m3u8
-#EXTINF:-1 tvg-id="SONY MAX" tvg-name="SONY MAX" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Entertainment Channels",SONY MAX
-http://103.84.173.164:5001/api/sony_max.m3u8
-#EXTINF:-1 tvg-id="SONY MAX HD" tvg-name="SONY MAX HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Entertainment Channels",SONY MAX HD
-http://103.84.173.164:5001/api/set_max_hd.m3u8
-#EXTINF:-1 tvg-id="B4U Music VIP" tvg-name="B4U Music VIP" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Entertainment Channels",B4U Music VIP
-http://103.84.173.164:5001/api/b4umusic.m3u8
-#EXTINF:-1 tvg-id="Sony Aat" tvg-name="Sony Aat" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Entertainment Channels",Sony Aat
-http://103.84.173.164:5001/api/sony_aath.m3u8
-#EXTINF:-1 tvg-id="SONY SAB HD" tvg-name="SONY SAB HD" tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Entertainment Channels",SONY SAB HD
-http://103.84.173.164:5001/api/sony_sab_hd.m3u8
-#EXTINF:-1 tvg-id="SONY MAX 2" tvg-name="SONY MAX 2" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Entertainment Channels",SONY MAX 2
-http://103.84.173.164:5001/api/sony_max_2.m3u8
-#EXTINF:-1 tvg-id="SONY WAH" tvg-name="SONY WAH" tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Entertainment Channels",SONY WAH
-http://103.84.173.164:5001/api/sony_wah.m3u8
-#EXTINF:-1 tvg-id="SONY YAY" tvg-name="SONY YAY" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Entertainment Channels",SONY YAY
-http://103.84.173.164:5001/api/sony_yay.m3u8
-#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-name="SONY BBC EARTH HD" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="Entertainment Channels",SONY BBC EARTH HD
-http://103.84.173.164:5001/api/sony_bbc_earth_hd.m3u8
-#EXTINF:-1 tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Movie Channels",SONY PIX HD
-http://103.84.173.164:5001/api/sony_pix_hd.m3u8
-#EXTINF:-1 tvg-id="B4U Movies VIP" tvg-name="B4U Movies VIP" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Movie Channels",B4U Movies VIP
-http://103.84.173.164:5001/api/b4u_movies.m3u8
+#EXTINF:-1, BTV World
+http://103.84.173.164:3000/restream/BTV%20World.m3u8
+#EXTINF:-1, Sangshad TV
+http://103.84.173.164:3000/restream/Sangshad%20TV.m3u8
+#EXTINF:-1, BTV Chattogram
+http://103.84.173.164:3000/restream/BTV%20Chattogram.m3u8
+#EXTINF:-1, Bangla Vision
+http://103.84.173.164:3000/restream/Bangla%20Vision.m3u8
+#EXTINF:-1, Channel I
+http://103.84.173.164:3000/restream/Channel%20I.m3u8
+#EXTINF:-1, Ekushey TV
+http://103.84.173.164:3000/restream/Ekushey%20TV.m3u8
+#EXTINF:-1, NTV
+http://103.84.173.164:3000/restream/NTV.m3u8
+#EXTINF:-1, Independent TV
+http://103.84.173.164:3000/restream/Independent%20TV.m3u8
+#EXTINF:-1, ATN Bangla
+http://103.84.173.164:3000/restream/ATN%20Bangla.m3u8
+#EXTINF:-1, Boishakhi TV
+http://103.84.173.164:3000/restream/Boishakhi%20TV.m3u8
+#EXTINF:-1, Maasranga TV
+http://103.84.173.164:3000/restream/Maasranga%20TV.m3u8
+#EXTINF:-1, Desh TV
+http://103.84.173.164:3000/restream/Desh%20TV.m3u8
+#EXTINF:-1, My TV
+http://103.84.173.164:3000/restream/My%20TV.m3u8
+#EXTINF:-1, ATN News
+http://103.84.173.164:3000/restream/ATN%20News.m3u8
+#EXTINF:-1, Mohona TV
+http://103.84.173.164:3000/restream/Mohona%20TV.m3u8
+#EXTINF:-1, Bijoy TV
+http://103.84.173.164:3000/restream/Bijoy%20TV.m3u8
+#EXTINF:-1, Gazi TV
+http://103.84.173.164:3000/restream/Gazi%20TV.m3u8
+#EXTINF:-1, Gazi TV HD
+http://103.84.173.164:3000/restream/Gazi%20TV%20HD.m3u8
+#EXTINF:-1, Channel 9
+http://103.84.173.164:3000/restream/Channel%209.m3u8
+#EXTINF:-1, Channel 24
+http://103.84.173.164:3000/restream/Channel%2024.m3u8
+#EXTINF:-1, Gaan Bangla
+http://103.84.173.164:3000/restream/Gaan%20Bangla.m3u8
+#EXTINF:-1, Ekattor TV
+http://103.84.173.164:3000/restream/Ekattor%20TV.m3u8
+#EXTINF:-1, Asian TV
+http://103.84.173.164:3000/restream/Asian%20TV.m3u8
+#EXTINF:-1, SA TV
+http://103.84.173.164:3000/restream/SA%20TV.m3u8
+#EXTINF:-1, Jamuna TV
+http://103.84.173.164:3000/restream/Jamuna%20TV.m3u8
+#EXTINF:-1, DBC News
+http://103.84.173.164:3000/restream/DBC%20News.m3u8
+#EXTINF:-1, News 24
+http://103.84.173.164:3000/restream/News%2024.m3u8
+#EXTINF:-1, Bangla TV
+http://103.84.173.164:3000/restream/Bangla%20TV.m3u8
+#EXTINF:-1, Nexus TV
+http://103.84.173.164:3000/restream/Nexus%20TV.m3u8
+#EXTINF:-1, Ananda TV
+http://103.84.173.164:3000/restream/Ananda%20TV.m3u8
+#EXTINF:-1, Global TV
+http://103.84.173.164:3000/restream/Global%20TV.m3u8
+#EXTINF:-1, Channel S
+http://103.84.173.164:3000/restream/Channel%20S.m3u8
+#EXTINF:-1, Duronto TV
+http://103.84.173.164:3000/restream/Duronto%20TV.m3u8
+#EXTINF:-1, IQRA Bangla TV
+http://103.84.173.164:3000/restream/IQRA%20Bangla%20TV.m3u8
+#EXTINF:-1, Sangeet Bangla
+http://103.84.173.164:3000/restream/Sangeet%20Bangla.m3u8
+#EXTINF:-1, B4U Music
+http://103.84.173.164:3000/restream/B4U%20Music.m3u8
+#EXTINF:-1, Ekhon TV
+http://103.84.173.164:3000/restream/Ekhon%20TV.m3u8
+#EXTINF:-1, RTV
+http://103.84.173.164:3000/restream/RTV.m3u8
+#EXTINF:-1, Medibiz TV
+http://103.84.173.164:3000/restream/Medibiz%20TV.m3u8
+#EXTINF:-1, Star Sports 1 HD
+http://103.84.173.164:3000/restream/Star%20Sports%201%20HD.m3u8
+#EXTINF:-1, Star Sports 2 HD
+http://103.84.173.164:3000/restream/Star%20Sports%202%20HD.m3u8
+#EXTINF:-1, History Channel
+http://103.84.173.164:3000/restream/History%20Channel.m3u8
+#EXTINF:-1, PTV Sports
+http://103.84.173.164:3000/restream/PTV%20Sports.m3u8
+#EXTINF:-1, Star Sport Select 1
+http://103.84.173.164:3000/restream/Star%20Sport%20Select%201.m3u8
+#EXTINF:-1, Star Sport Select 2
+http://103.84.173.164:3000/restream/Star%20Sport%20Select%202.m3u8
+#EXTINF:-1, MTV
+http://103.84.173.164:3000/restream/MTV.m3u8
+#EXTINF:-1, Discovery Kids
+http://103.84.173.164:3000/restream/Discovery%20Kids.m3u8
+#EXTINF:-1, Discovery Turbo
+http://103.84.173.164:3000/restream/Discovery%20Turbo.m3u8
+#EXTINF:-1, Discovery Science
+http://103.84.173.164:3000/restream/Discovery%20Science.m3u8
+#EXTINF:-1, Animal Planet HD
+http://103.84.173.164:3000/restream/Animal%20Planet%20HD.m3u8
+#EXTINF:-1, Investigation Discovery HD
+http://103.84.173.164:3000/restream/Investigation%20Discovery%20HD.m3u8
+#EXTINF:-1, TLC HD
+http://103.84.173.164:3000/restream/TLC%20HD.m3u8
+#EXTINF:-1, Discovery HD
+http://103.84.173.164:3000/restream/Discovery%20HD.m3u8
+#EXTINF:-1, Aljazeera News
+http://103.84.173.164:3000/restream/Aljazeera%20News.m3u8
+#EXTINF:-1, DW
+http://103.84.173.164:3000/restream/DW.m3u8
+#EXTINF:-1, NHK World Japan
+http://103.84.173.164:3000/restream/NHK%20World%20Japan.m3u8
+#EXTINF:-1, TRT World
+http://103.84.173.164:3000/restream/TRT%20World.m3u8
+#EXTINF:-1, CNN
+http://103.84.173.164:3000/restream/CNN.m3u8
+#EXTINF:-1, BBC News
+http://103.84.173.164:3000/restream/BBC%20News.m3u8
+#EXTINF:-1, Cartoon Network
+http://103.84.173.164:3000/restream/Cartoon%20Network.m3u8
+#EXTINF:-1, PBS Kids
+http://103.84.173.164:3000/restream/PBS%20Kids.m3u8
+#EXTINF:-1, WION
+http://103.84.173.164:3000/restream/WION.m3u8
+#EXTINF:-1, A Sports
+http://103.84.173.164:3000/restream/A%20Sports.m3u8
+#EXTINF:-1, HBO
+http://103.84.173.164:3000/restream/HBO.m3u8
+#EXTINF:-1, SET Max
+http://103.84.173.164:3000/restream/SET%20Max.m3u8
+#EXTINF:-1, And Pictures HD
+http://103.84.173.164:3000/restream/And%20Pictures%20HD.m3u8
+#EXTINF:-1, ZEE Bangla HD
+http://103.84.173.164:3000/restream/ZEE%20Bangla%20HD.m3u8
+#EXTINF:-1, Zee TV HD
+http://103.84.173.164:3000/restream/Zee%20TV%20HD.m3u8
+#EXTINF:-1, Zee Cafe HD
+http://103.84.173.164:3000/restream/Zee%20Cafe%20HD.m3u8
+#EXTINF:-1, Zee Anmol
+http://103.84.173.164:3000/restream/Zee%20Anmol.m3u8
+#EXTINF:-1, ZEE 24 Ghanta
+http://103.84.173.164:3000/restream/ZEE%2024%20Ghanta.m3u8
+#EXTINF:-1, ZEE News
+http://103.84.173.164:3000/restream/ZEE%20News.m3u8
+#EXTINF:-1, Zee Bollywood
+http://103.84.173.164:3000/restream/Zee%20Bollywood.m3u8
+#EXTINF:-1, And TV HD
+http://103.84.173.164:3000/restream/And%20TV%20HD.m3u8
+#EXTINF:-1, Zee Cinema HD
+http://103.84.173.164:3000/restream/Zee%20Cinema%20HD.m3u8
+#EXTINF:-1, Zee Bangla
+http://103.84.173.164:3000/restream/Zee%20Bangla.m3u8
+#EXTINF:-1, Colors Bangla
+http://103.84.173.164:3000/restream/Colors%20Bangla.m3u8
+#EXTINF:-1, Zee Buisness
+http://103.84.173.164:3000/restream/Zee%20Buisness.m3u8
+#EXTINF:-1, beIN SPORTS
+http://103.84.173.164:3000/restream/beIN%20SPORTS.m3u8
+#EXTINF:-1, Zee Action
+http://103.84.173.164:3000/restream/Zee%20Action.m3u8
+#EXTINF:-1, BabyTV
+http://103.84.173.164:3000/restream/BabyTV.m3u8
+#EXTINF:-1, BBC America
+http://103.84.173.164:3000/restream/BBC%20America.m3u8
+#EXTINF:-1, Bloomberg TV
+http://103.84.173.164:3000/restream/Bloomberg%20TV.m3u8
+#EXTINF:-1, Willow HD TV
+http://103.84.173.164:3000/restream/Willow%20HD%20TV.m3u8
+#EXTINF:-1, ESPN
+http://103.84.173.164:3000/restream/ESPN.m3u8
+#EXTINF:-1, TSN 1
+http://103.84.173.164:3000/restream/TSN%201.m3u8
+#EXTINF:-1, TSN 2
+http://103.84.173.164:3000/restream/TSN%202.m3u8
+#EXTINF:-1, TSN 3
+http://103.84.173.164:3000/restream/TSN%203.m3u8
+#EXTINF:-1, BT Sport 1
+http://103.84.173.164:3000/restream/BT%20Sport%201.m3u8
+#EXTINF:-1, BT Sport 2
+http://103.84.173.164:3000/restream/BT%20Sport%202.m3u8
+#EXTINF:-1, Fox Sports 1
+http://103.84.173.164:3000/restream/Fox%20Sports%201.m3u8
+#EXTINF:-1, Fox Sports 2
+http://103.84.173.164:3000/restream/Fox%20Sports%202.m3u8
+#EXTINF:-1, Movie live
+http://103.84.173.164:3000/restream/Movie%20live.m3u8
+#EXTINF:-1, Mastiii Music
+http://103.84.173.164:3000/restream/Mastiii%20Music.m3u8
+#EXTINF:-1, 9XM
+http://103.84.173.164:3000/restream/9XM.m3u8
+#EXTINF:-1, Nickelodeon
+http://103.84.173.164:3000/restream/Nickelodeon.m3u8
+#EXTINF:-1, Fox News
+http://103.84.173.164:3000/restream/Fox%20News.m3u8
+#EXTINF:-1, Travel XP
+http://103.84.173.164:3000/restream/Travel%20XP.m3u8
+#EXTINF:-1, MSNBC News
+http://103.84.173.164:3000/restream/MSNBC%20News.m3u8
+#EXTINF:-1, Food Network
+http://103.84.173.164:3000/restream/Food%20Network.m3u8
+#EXTINF:-1, Makkah Live
+http://103.84.173.164:3000/restream/Makkah%20Live.m3u8
+#EXTINF:-1, Madina Live
+http://103.84.173.164:3000/restream/Madina%20Live.m3u8
+#EXTINF:-1, Aakaash 8
+http://103.84.173.164:3000/restream/Aakaash%208.m3u8
+#EXTINF:-1, Dhoom Music Bangla
+http://103.84.173.164:3000/restream/Dhoom%20Music%20Bangla.m3u8
+#EXTINF:-1, HiDost
+http://103.84.173.164:3000/restream/HiDost.m3u8
+#EXTINF:-1, Manoranjan Movies
+http://103.84.173.164:3000/restream/Manoranjan%20Movies.m3u8
+#EXTINF:-1, Music India
+http://103.84.173.164:3000/restream/Music%20India.m3u8
+#EXTINF:-1, News Time
+http://103.84.173.164:3000/restream/News%20Time.m3u8
+#EXTINF:-1, Rplus
+http://103.84.173.164:3000/restream/Rplus.m3u8
+#EXTINF:-1, Anjan TV
+http://103.84.173.164:3000/restream/Anjan%20TV.m3u8
+#EXTINF:-1, Rplus Gold
+http://103.84.173.164:3000/restream/Rplus%20Gold.m3u8
+#EXTINF:-1, 9X Tashan
+http://103.84.173.164:3000/restream/9X%20Tashan.m3u8
+#EXTINF:-1, B4U Kadak
+http://103.84.173.164:3000/restream/B4U%20Kadak.m3u8
+#EXTINF:-1, Dhamaal
+http://103.84.173.164:3000/restream/Dhamaal.m3u8
+#EXTINF:-1, Goldmines Bollywood
+http://103.84.173.164:3000/restream/Goldmines%20Bollywood.m3u8
+#EXTINF:-1, Goldmines Movies
+http://103.84.173.164:3000/restream/Goldmines%20Movies.m3u8
+#EXTINF:-1, Khushboo
+http://103.84.173.164:3000/restream/Khushboo.m3u8
+#EXTINF:-1, TheQ
+http://103.84.173.164:3000/restream/TheQ.m3u8
+#EXTINF:-1, TV9 Bangla
+http://103.84.173.164:3000/restream/TV9%20Bangla.m3u8
+#EXTINF:-1, Bflix
+http://103.84.173.164:3000/restream/Bflix.m3u8
+#EXTINF:-1, Dangal
+http://103.84.173.164:3000/restream/Dangal.m3u8
+#EXTINF:-1, Pitaara TV
+http://103.84.173.164:3000/restream/Pitaara%20TV.m3u8
+#EXTINF:-1, Dangal 2
+http://103.84.173.164:3000/restream/Dangal%202.m3u8
+#EXTINF:-1, Hindi Khabar
+http://103.84.173.164:3000/restream/Hindi%20Khabar.m3u8
+#EXTINF:-1, Manoranjan TV
+http://103.84.173.164:3000/restream/Manoranjan%20TV.m3u8
+#EXTINF:-1, Bharat Samachar
+http://103.84.173.164:3000/restream/Bharat%20Samachar.m3u8
+#EXTINF:-1, Network 10
+http://103.84.173.164:3000/restream/Network%2010.m3u8
+#EXTINF:-1, News 1 India
+http://103.84.173.164:3000/restream/News%201%20India.m3u8
+#EXTINF:-1, Sadhna Prime News
+http://103.84.173.164:3000/restream/Sadhna%20Prime%20News.m3u8
+#EXTINF:-1, E24
+http://103.84.173.164:3000/restream/E24.m3u8
+#EXTINF:-1, News 24
+http://103.84.173.164:3000/restream/News%2024.m3u8
+#EXTINF:-1, Rongeen TV
+http://103.84.173.164:3000/restream/Rongeen%20TV.m3u8
+#EXTINF:-1, Taaza TV
+http://103.84.173.164:3000/restream/Taaza%20TV.m3u8
+#EXTINF:-1, Afghan TV
+http://103.84.173.164:3000/restream/Afghan%20TV.m3u8
+#EXTINF:-1, B4U Movies India
+http://103.84.173.164:3000/restream/B4U%20Movies%20India.m3u8
+#EXTINF:-1, Movie Today
+http://103.84.173.164:3000/restream/Movie%20Today.m3u8
+#EXTINF:-1, NTV Itahari
+http://103.84.173.164:3000/restream/NTV%20Itahari.m3u8
+#EXTINF:-1, B4U Hitz
+http://103.84.173.164:3000/restream/B4U%20Hitz.m3u8
+#EXTINF:-1, Dhamaka Movies
+http://103.84.173.164:3000/restream/Dhamaka%20Movies.m3u8
+#EXTINF:-1, Bharat 24 Vision OF New India
+http://103.84.173.164:3000/restream/Bharat%2024%20Vision%20OF%20New%20India.m3u8
+#EXTINF:-1, News India 24x7
+http://103.84.173.164:3000/restream/News%20India%2024x7.m3u8
+#EXTINF:-1, Republic Bangla
+http://103.84.173.164:3000/restream/Republic%20Bangla.m3u8
+#EXTINF:-1, Republic TV
+http://103.84.173.164:3000/restream/Republic%20TV.m3u8
+#EXTINF:-1, TV9 Bhara tvarsh
+http://103.84.173.164:3000/restream/TV9%20Bhara%20tvarsh.m3u8
+#EXTINF:-1, ABC Spark
+http://103.84.173.164:3000/restream/ABC%20Spark.m3u8
+#EXTINF:-1, TBS
+http://103.84.173.164:3000/restream/TBS.m3u8
+#EXTINF:-1, Fox 5
+http://103.84.173.164:3000/restream/Fox%205.m3u8
+#EXTINF:-1, Fox Business
+http://103.84.173.164:3000/restream/Fox%20Business.m3u8
+#EXTINF:-1, The Weather Channel
+http://103.84.173.164:3000/restream/The%20Weather%20Channel.m3u8
+#EXTINF:-1, Sky Nature
+http://103.84.173.164:3000/restream/Sky%20Nature.m3u8
+#EXTINF:-1, Pix11
+http://103.84.173.164:3000/restream/Pix11.m3u8
+#EXTINF:-1, Amc
+http://103.84.173.164:3000/restream/Amc.m3u8
+#EXTINF:-1, Revolt
+http://103.84.173.164:3000/restream/Revolt.m3u8
+#EXTINF:-1, axs
+http://103.84.173.164:3000/restream/axs.m3u8
+#EXTINF:-1, ytv
+http://103.84.173.164:3000/restream/ytv.m3u8
+#EXTINF:-1, Islam Channel
+http://103.84.173.164:3000/restream/Islam%20Channel.m3u8
+#EXTINF:-1, Kolkata TV
+http://103.84.173.164:3000/restream/Kolkata%20TV.m3u8
+#EXTINF:-1, Peace TV Urdu HD
+http://103.84.173.164:3000/restream/Peace%20TV%20Urdu%20HD.m3u8
+#EXTINF:-1, Channel Win
+http://103.84.173.164:3000/restream/Channel%20Win.m3u8
+#EXTINF:-1, Gazi TV
+http://103.84.173.164:3000/restream/Gazi%20TV.m3u8
+#EXTINF:-1, Gazi TV HD
+http://103.84.173.164:3000/restream/Gazi%20TV%20HD.m3u8
+#EXTINF:-1, Star Sports 1 HD
+http://103.84.173.164:3000/restream/Star%20Sports%201%20HD.m3u8
+#EXTINF:-1, Star Sports 2 HD
+http://103.84.173.164:3000/restream/Star%20Sports%202%20HD.m3u8
+#EXTINF:-1, PTV Sports
+http://103.84.173.164:3000/restream/PTV%20Sports.m3u8
+#EXTINF:-1, Star Sport Select 1
+http://103.84.173.164:3000/restream/Star%20Sport%20Select%201.m3u8
+#EXTINF:-1, Star Sport Select 2
+http://103.84.173.164:3000/restream/Star%20Sport%20Select%202.m3u8
+#EXTINF:-1, A Sports
+http://103.84.173.164:3000/restream/A%20Sports.m3u8
+#EXTINF:-1, beIN SPORTS
+http://103.84.173.164:3000/restream/beIN%20SPORTS.m3u8
+#EXTINF:-1, Willow HD TV
+http://103.84.173.164:3000/restream/Willow%20HD%20TV.m3u8
+#EXTINF:-1, ESPN
+http://103.84.173.164:3000/restream/ESPN.m3u8
+#EXTINF:-1, TSN 1
+http://103.84.173.164:3000/restream/TSN%201.m3u8
+#EXTINF:-1, TSN 2
+http://103.84.173.164:3000/restream/TSN%202.m3u8
+#EXTINF:-1, TSN 3
+http://103.84.173.164:3000/restream/TSN%203.m3u8
+#EXTINF:-1, BT Sport 1
+http://103.84.173.164:3000/restream/BT%20Sport%201.m3u8
+#EXTINF:-1, BT Sport 2
+http://103.84.173.164:3000/restream/BT%20Sport%202.m3u8
+#EXTINF:-1, Fox Sports 1
+http://103.84.173.164:3000/restream/Fox%20Sports%201.m3u8
+#EXTINF:-1, Fox Sports 2
+http://103.84.173.164:3000/restream/Fox%20Sports%202.m3u8
